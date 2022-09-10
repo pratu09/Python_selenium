@@ -1,0 +1,15 @@
+1662266327369	geckodriver	INFO	Listening on 127.0.0.1:7771
+1662266330447	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7772" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pream\\AppData\\Local\\Temp\\rust_mozprofileKBl7Jj"
+1662266331671	Marionette	INFO	Marionette enabled
+1662266331692	Marionette	INFO	Listening on port 7781
+WebDriver BiDi listening on ws://localhost:7772
+Read port: 7781
+1662266331957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pream\\AppData\\Local\\Temp\\rust_mozprofileKBl7Jj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:7772/devtools/browser/55e68a3d-e2dc-49b0-ada3-25bb91ca875d
+JavaScript error: https://t.dtscout.com/i/?l=http%3A%2F%2Fwww.seleniumframework.com%2Fdemo-sites%2F&j=, line 101: TypeError: document.getElementsByTagName(...)[0] is undefined
+JavaScript error: https://secureservercdn.net/50.62.198.97/4fe.66c.myftpupload.com/wp-content/themes/dt-the7/js/desktop.min.js?ver=4.4.4&time=1661881689, line 1: TypeError: c.browser is undefined
+JavaScript error: https://secureservercdn.net/50.62.198.97/4fe.66c.myftpupload.com/wp-content/themes/dt-the7/js/main.min.js?ver=4.4.4&time=1661881689, line 1: TypeError: e.browser is undefined
+JavaScript error: https://secureservercdn.net/50.62.198.97/4fe.66c.myftpupload.com/wp-content/themes/dt-the7/js/main.min.js?ver=4.4.4&time=1661881689, line 3: TypeError: e.browser is undefined
+1662266341457	Marionette	INFO	Stopped listening on port 7781
+!!! error running onStopped callback: TypeError: callback is not a function

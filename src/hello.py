@@ -1,0 +1,1 @@
+print("\n pratiksha \n")

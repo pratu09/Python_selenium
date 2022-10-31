@@ -1,2 +1,2 @@
 print("\n pratiksha \n")
-print("\n hello ")
+print("\n hello \n")
